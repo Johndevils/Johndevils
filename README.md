@@ -1,6 +1,6 @@
 # 👋 Hi, I'm John Devil
 
-![Header Banner](https://placehold.co/1500x500/3A86FF/FFFFFF?text=John+Devil+%7C+Full-Stack+Developer&font=roboto&font_size=60)
+![Header Banner](assets/71NnDjm816L._UF1000%2C1000_QL80_.jpg)
 
 ## 🚀 About Me
 - 🔭 I'm a passionate **Full-Stack Developer** building modern web applications
