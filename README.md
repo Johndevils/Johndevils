@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - 🔭 I'm a passionate **Full-Stack Developer** building modern web applications
-- 🌱 Currently mastering **React, Node.js, and Cloud Infrastructure**
+- 🌱 Currently mastering **React, Node.js, and Html5**
 - 💬 Ask me about **JavaScript frameworks, API design, and performance optimization**
 - 📫 Reach me at **contact@arsynoxhash.dpdns.org** 
 - ⚡ Fun fact: I built my first website when I was 12 using Notepad and GeoCities!
@@ -28,15 +28,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-
-## 📊 GitHub Analytics
-
-![Johndevil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johndevil&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johndevil&layout=compact&theme=radical&langs_count=8)
-
-## 🌟 Featured Projects
-
-
 
 ## 📈 Coding Activity
 
