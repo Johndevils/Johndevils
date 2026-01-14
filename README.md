@@ -6,7 +6,7 @@
 - 🔭 I'm a passionate **Full-Stack Developer** building modern web applications
 - 🌱 Currently mastering **React, Node.js, and Cloud Infrastructure**
 - 💬 Ask me about **JavaScript frameworks, API design, and performance optimization**
-- 📫 Reach me at **contact@codexlab.ggff.net** 
+- 📫 Reach me at **contact@arsynoxhash.dpdns.org** 
 - ⚡ Fun fact: I built my first website when I was 12 using Notepad and GeoCities!
 
 ## 💻 Tech Stack
