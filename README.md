@@ -1,6 +1,6 @@
 # 👋 Hi, I'm John Devil
 
-![Header Banner](assets/71NnDjm816L._UF1000%2C1000_QL80_.jpg)
+![Header Banner](assets/mikasha.jpg)
 
 ## 🚀 About Me
 - 🔭 I'm a passionate **Full-Stack Developer** building modern web applications
