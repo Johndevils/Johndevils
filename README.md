@@ -25,7 +25,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/JpCLMZZBRbWGBpFiVj/giphy.gif" width="180" alt="Naruto Running"/>
+<img align="right" src="https://i.ibb.co/V7R3Bp3/821ac14d1fc011268367c04b66035f97.gif"  alt="Naruto "/>
 
 ## 🍥 About This Shinobi
 
