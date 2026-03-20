@@ -1,74 +1,77 @@
-<h1 align="center">
-  Hey 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px">
-  I'm Arsynox
-</h1>
-
-<h3 align="center">Hobbyist Coder</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffb8,50:00d4ff,100:a855f7&height=200&section=header&text=ARSYNOX&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Hobbyist%20Coder%20%7C%20Building%20Cool%20Stuff&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+</p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Johndevils">
-    <img src="https://komarev.com/ghpvc/?username=Johndevils&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&color=00FFB8&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%90%A7+I'm+Arsynox;Hobbyist+Coder+%26+Builder;Learning+HTML+%7C+CSS+%7C+JS+%7C+Python;Always+shipping+something+new..." alt="Typing SVG" />
   </a>
 </p>
 
-![Header Banner](assets/mikasha.jpg)
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Johndevils">
+    <img src="https://komarev.com/ghpvc/?username=Johndevils&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile views"/>
+  </a>
+  <img src="https://img.shields.io/badge/Status-Building-00ffb8?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20To-Collabs-a855f7?style=flat-square&logoColor=white"/>
+</p>
 
 ---
 
 ## 📌 About Me
-- 🌿 Currently learning **HTML5, Tailwind CSS, JavaScript & Python**
 
----
-
+```js
+const arsynox = {
+  name     : "Arsynox",
+  github   : "@Johndevils",
+  role     : "Hobbyist Coder",
+  learning : ["HTML5", "Tailwind CSS", "JavaScript", "Python"],
+  building : "Something cool, always.",
+  contact  : ["Discord", "Telegram", "Gmail"]
+};
+```
 
 ---
 
 ## 🛠️ Languages & Tools
 
-### Programming Languages
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,rust&theme=dark" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,tailwind&theme=dark" />
 </p>
 
-### Database
+### 🗄️ Database
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
 </p>
 
-### DevOps & Cloud
+### ☁️ DevOps & Cloud
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/koyeb/koyeb-icon.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=docker,gcp,vercel,cloudflare&theme=dark" />
 </p>
 
-### Tools
+### 🔧 Tools
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=git,vite&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Johndevils&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johndevils&layout=compact&theme=radical&hide_border=true&langs_count=10" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johndevils&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+  <img src="https://streak-stats.demolab.com?user=Johndevils&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
@@ -76,30 +79,31 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <!-- Discord -->
   <a href="https://discord.gg/brn2XWZAPq" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" width="40"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-
-  <!-- Telegram -->
+  &nbsp;
   <a href="https://t.me/codexhelps_bot" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="40"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-
-  <!-- Gmail -->
-  <a href="mailto:contact@arsynoxhash.dpdns.org">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/>
+  &nbsp;
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
+## 🐾 Contribution Graph
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg" width="100%"/>
 </picture>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
-</div>
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:00d4ff,100:00ffb8&height=120&section=footer&animation=fadeIn" width="100%"/>
+</p>
